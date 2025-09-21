@@ -26,4 +26,6 @@
 - 💼 [LinkedIn]((https://ar.linkedin.com/in/fernando-alegre))  
 - ✉️ falegre777@gmail.com
 
-![Snake animation](https://github.com/FernandoAlegr/FernandoAlegr/blob/output/github-contribution-grid-snake.svg)
+![Duck](https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif)
+
+
